@@ -30,4 +30,4 @@ At the command line, this should work for you:
 
 See results like this:
 
-   ![Sample Random Run](spec/jordans game of life.gif)
+   ![Sample Random Run](https://github.com/JonKernPA/coding_with_jordan/blob/master/spec/jordans%20game%20of%20life.gif)
