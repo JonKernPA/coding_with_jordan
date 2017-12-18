@@ -27,3 +27,7 @@ further generations.
 At the command line, this should work for you:
 
     rspec spec/board_spec.rb --example "Board runs random for fun"
+
+See results like this:
+
+   ![Sample Random Run](spec/jordans game of life.gif)
